@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rafael+Silva;I+from+BRASIL+in+Fortaleza,+CE;I+study+Python,+Database,+Power+BI;I+love+technology!+You`re+very+welcome!+)](https://git.io/typing-svg)
 <div>
   <a href="https://github.com/FRafaelS">
-  <img width="55%" height="200px" src="https://github-readme-stats.vercel.app/api?username=frafaels&show_icons=true&theme=moltack&include_all_commits=true&count_private=true&hide_border=false&title_color=DCDCDC&icon_color=66CDAA&text_color=F5F5F5&bg_color=0d1117" alt="Rafael Silva" />
+  <img width="55%" height="200px" src="https://github-readme-stats.vercel.app/api?username=frafaels&show_icons=true&theme=moltack&include_all_commits=true&count_private=true&hide_border=false" alt="Rafael Silva" />
   <img width="44%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frafaels&layout=compact&theme=moltack&hide_border=true&title_color=F5F5F5&text_color=66CDAA&bg_color=0d1117" />
     
 </div>    
